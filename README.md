@@ -10,5 +10,6 @@ This product is now available at the Microsoft Business Central App Source.
 * A YouTube video Link 
 * An Email and Website link
 
+[AIM Engine email template](https://rebecalvarez.github.io/email-camp-AIM/ "AIM Engine email Template Page Link")
 
 ![Main](AIM-Camp.png)
